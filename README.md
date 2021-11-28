@@ -1,10 +1,11 @@
-# Anki Card Creation
+# Anki OTG
 
 # About
 
-Allows for more efficient creation of Anki cards on the go where the full app is not accessible (like on a Chromebook) (What is [Anki](https://apps.ankiweb.net/?)
+Allows for more efficient creation of Anki cards on the go (with the following shortcuts) where the full app is not accessible (like on a Chromebook) (What is [Anki](https://apps.ankiweb.net/)?)
 
-- ctrl + shift + c creates cloze
+- `ctrl + shift + c` creates cloze
+- `ctrl + m` -> `m` creates inline mathjax
 
 ## Available Scripts
 

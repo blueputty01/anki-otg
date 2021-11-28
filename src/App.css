@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  padding: 10px;
 }
 
 .input {
@@ -13,4 +13,8 @@
   border-radius: 10px;
   /* outline: none; */
   border: 1px solid rgb(130, 142, 143);
+}
+
+.field {
+  padding: 10px 0 10px 0;
 }

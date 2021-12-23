@@ -66,7 +66,7 @@ class InsertCard extends React.Component<any, any> {
       }
 
       function mathjax(e: KeyboardEvent) {
-        insertWrap("\\(\\", "\\)");
+        insertWrap("\\(", "\\)");
       }
 
       return { cloze, mathjax };
